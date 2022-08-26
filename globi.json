@@ -9,7 +9,7 @@
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
     "url" : "https://docs.google.com/spreadsheets/u/0/d/1OgDhj2TUfaZQJBF7XAvzb30ZJoIrccZH7ANCGjJDufs/export?format=tsv",
-    "dcterms:bibliographicCitation" : "Minckly Bees of San Bernardino Valley 2000-2011",
+    "dcterms:bibliographicCitation" : "Robert L. Minckley San Bernardino Valley from the year 2000 to 2011.",
     "referenceUrl" : "https://sas.rochester.edu/bio/sites/minckley/index.php/bee-plant-data/",
     "delimiter" : "\t",
     "headerRowCount" : 1,
