@@ -1,0 +1,74 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "https://docs.google.com/spreadsheets/u/0/d/1OgDhj2TUfaZQJBF7XAvzb30ZJoIrccZH7ANCGjJDufs/export?format=tsv",
+    "dcterms:bibliographicCitation" : "Minckly Bees of San Bernardino Valley 2000-2011",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "interactionTypeName": "visits",
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002618",
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "catalogNumber",
+        "titles" : "Specimen_code",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Bee species name",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonFamilyName",
+        "titles" : "Bee Family",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonGenusName",
+        "titles" : "Bee Genus",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonSpecificEpithetName",
+        "titles" : "Bee Species",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonSubSpeciesName",
+        "titles" : "Bee subspecies",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Host name",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonFamilyName",
+        "titles" : "Plant Family",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonGenusName",
+        "titles" : "Plant Genus",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonSpecificEpithetName",
+        "titles" : "Plant Species",
+        "datatype" : "string"
+      }, {
+        "name" : "ID",
+        "titles" : "ID",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceReferenceUrl",
+        "titles" : "Bee images",
+        "datatype" : "string"
+      }, {
+        "name" : "targetReferenceUrl",
+        "titles" : "Plant images",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}

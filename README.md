@@ -1,0 +1,5 @@
+[![Review](https://github.com/globalbioticinteractions/minckly-san-bernardino-valley-2000-2011/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/minckly-san-bernardino-valley-2000-2011/actions) [![Build Status](https://app.travis-ci.com/globalbioticinteractions/minckly-san-bernardino-valley-2000-2011.svg)](https://app.travis-ci.com/globalbioticinteractions/minckly-san-bernardino-valley-2000-2011) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/minckly-san-bernardino-valley-2000-2011&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/minckly-san-bernardino-valley-2000-2011)
+
+Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
+
+Minckly Bees of San Bernardino Valley 2000-2011
